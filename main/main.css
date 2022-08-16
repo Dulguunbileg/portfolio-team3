@@ -1,0 +1,65 @@
+.grid-container {
+  display: grid;
+  grid-template-columns: 100%;
+  grid-template-rows: 220px 376px 1673px 1417px 894px 107px;
+  grid-template-areas:
+    "header1"
+    "header2"
+    "bagiinhumuus"
+    "project"
+    "words"
+    "footer";
+  height: 100vh;
+  width: 100%;
+}
+.header1 {
+  grid-area: header1;
+  background: rgb(80 11 114);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+}
+.header2 {
+  grid-area: header2;
+  background: rgb(80 11 114);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+}
+.bagiinhumuus {
+  grid-area: bagiinhumuus;
+  background: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+}
+.project {
+  grid-area: project;
+  background: rgb(249 222 162);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+}
+.words {
+  grid-area: words;
+  background: rgb(199 81 127);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+}
+.footer {
+  grid-area: footer;
+  background: rgb(57 74 137);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+}
+body {
+  margin: 0;
+}
