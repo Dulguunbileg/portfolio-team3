@@ -1,0 +1,17 @@
+.cuda {
+  width: 120px;
+  height: 40px;
+  left: 300px;
+  position: relative;
+}
+.category {
+  color: white;
+  display: flex;
+  gap: 40px;
+}
+.header1 {
+  gap: 1200px;
+}
+.names {
+    font-family: 'Titillium Web', sans-serif;
+}
