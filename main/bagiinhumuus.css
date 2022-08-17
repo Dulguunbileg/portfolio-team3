@@ -1,0 +1,54 @@
+.something {
+  background: #bdd1df;
+  opacity: 0.75;
+  width: 120px;
+  height: 4.13px;
+}
+.title {
+  display: flex;
+  flex-direction: column;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+}
+.middle {
+  font-family: "Montserrat", sans-serif;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 40.635px;
+  line-height: 50px;
+  text-align: center;
+}
+.profile {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+.ner {
+  font-family: "Titillium Web", sans-serif;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 37px;
+  color: #27283d;
+}
+.uureg {
+  font-family: "Titillium Web", sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  text-align: center;
+  color: #30bae7;
+}
+.about {
+  font-family: "Titillium Web", sans-serif;
+  font-style: normal;
+  font-weight: 300;
+  font-size: 16px;
+  line-height: 24px;
+  text-align: center;
+  color: #3c4761;
+}
