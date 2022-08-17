@@ -1,0 +1,29 @@
+body {
+  margin: 0;
+}
+.grid-container {
+  display: grid;
+  grid-template-rows: auto auto auto;
+}
+.pic-1 {
+  width: 450px;
+  height: 350px;
+  border-style: solid;
+  border-color: rgb(198, 158, 165);
+  border-width: 40px;
+}
+.pic-2 {
+  width: 450px;
+  height: 350px;
+  border-style: solid;
+  border-color: rgb(198, 158, 165);
+  border-width: 40px;
+}
+
+.pic-3 {
+  width: 450px;
+  height: 350px;
+  border-style: solid;
+  border-color: rgb(198, 158, 165);
+  border-width: 40px;
+}
