@@ -1,0 +1,60 @@
+body {
+  margin: 0;
+}
+.grid-container {
+  display: grid;
+  grid-template-columns: 50% 50%;
+}
+.picture {
+  width: 652px;
+  height: 711px;
+  margin-left: 156px;
+  margin-top: 126px;
+}
+.name {
+  position: absolute;
+  width: 213px;
+  height: 73px;
+  left: 882px;
+  top: 263px;
+
+  font-family: "Be Vietnam";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 50px;
+  line-height: 73px;
+}
+.introduction {
+  position: absolute;
+  width: 630px;
+  height: 220px;
+  left: 882px;
+  top: 373px;
+
+  font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+  font-style: normal;
+  font-weight: 200;
+  font-size: 35px;
+  line-height: 55px;
+  color: grey;
+}
+.button {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 10px 24px;
+
+  position: absolute;
+  width: 100px;
+  height: 40px;
+  left: 882px;
+  top: 630px;
+
+  background: #e84949;
+  border-radius: 4px;
+  text-align: center;
+  align-items: center;
+  font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+  font-size: 20px;
+  color: white;
+}
