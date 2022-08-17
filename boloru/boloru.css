@@ -4,13 +4,25 @@ body {
 .grid-container {
   display: grid;
   grid-template-rows: auto auto auto;
+  width: 100vw;
+  height: 100vh;
 }
 .pic-1 {
+  margin-left: 150px;
+  margin-top: 150px;
   width: 450px;
   height: 350px;
   border-style: solid;
   border-color: rgb(198, 158, 165);
   border-width: 40px;
+}
+.title-1 {
+  position: absolute;
+  left: 750px;
+  top: 250px;
+  font-family: "Courier New", Courier, monospace;
+  font-weight: 600;
+  font-size: 27px;
 }
 .pic-2 {
   width: 450px;
