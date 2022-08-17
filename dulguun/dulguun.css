@@ -1,0 +1,32 @@
+.cont{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+margin-top: 200px;
+}
+.info{
+    background-color: antiquewhite;
+    width:50vw;
+    height: 50vh;
+
+}
+.info1{
+     margin:100px;
+     margin-left: 10px;
+}
+.info2{
+       display: flex;
+    flex-direction: row;
+justify-content: center;
+}
+.rl{
+     display: flex;
+    flex-direction: column;
+margin-left: 10px ;
+}
+.rl1{
+    margin-left :500px;
+         display: flex;
+    flex-direction: column;
+
+}
