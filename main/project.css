@@ -1,0 +1,57 @@
+.title2 {
+  font-family: "Montserrat", sans-serif;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 39.8056px;
+  line-height: 49px;
+  text-align: center;
+  padding-top: 20px;
+}
+.line {
+  background: #e5c37f;
+  height: 4px;
+  width: 460px;
+}
+.button2 {
+  width: 84px;
+  height: 38px;
+  background: white;
+  border-radius: 5px;
+  border: none;
+  font-family: "Titillium Web", sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 17.9125px;
+  line-height: 27px;
+  background: rgba(0, 0, 0, 0.08);
+}
+.laptops {
+  width: 538px;
+  height: 309px;
+  padding-top: 50px;
+}
+.title3 {
+  font-family: "Titillium Web", sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 17.9125px;
+  line-height: 27px;
+  text-transform: uppercase;
+  text-align: center;
+  color: #393939;
+  padding: 10px;
+}
+.button3 {
+  background: #17c2a4;
+  width: 292px;
+  height: 70px;
+  border: none;
+  border-radius: 5px;
+  font-family: "Titillium Web", sans-serif;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 17.9127px;
+  line-height: 27px;
+  color: #ffffff;
+  margin-bottom:20px;
+}
