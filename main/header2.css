@@ -13,14 +13,15 @@
   font-weight: 700;
   font-size: 18px;
   line-height: 27px;
-  background:orange;
-  width:294px;
-  height:70px;
+  background: orange;
+  width: 294px;
+  height: 70px;
   border: none;
-  border-radius:5px;
-  color:white;
+  border-radius: 5px;
+  color: white;
+  margin: 6px;
 }
 .header2 {
-    display:flex;
-    flex-direction: column;
+  display: flex;
+  flex-direction: column;
 }
