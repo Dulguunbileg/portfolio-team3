@@ -1,31 +1,43 @@
 .mains{
    position: absolute;
-   top: 71% ;
+   top: 75% ;
    right: 0px;
    background-color:rgb( 78, 71, 193);
    width: 25000px;
-   height: 350px;
+   height: 300px;
    
 }
 .lolu{
    position: absolute;
-   top: 975px;
+   top: 1005px;
    left: 200px;
    width: 500px;
 }
 body{
-   
+   height: 600px;
+
 }
 .abt{
     font-family: 'Open Sans', sans-serif;;
     color: white;
     position: fixed;
-    top: 900px;
+    top: 950px;
     font-size:30px;
     left: 230px;
 }
 .git{
    position: fixed;
-   top: 900px;
+   top: 980px;
    left: 1600px;
+   height: 95px;
+   width: 100px;
+   
+}
+.hub{
+   position:fixed;
+   top: 1005px;
+   left: 1700px;
+   font-size:  30px;;
+   font-family: 'Open Sans', sans-serif;;
+   color: white;
 }
