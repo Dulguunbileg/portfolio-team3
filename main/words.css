@@ -1,0 +1,65 @@
+.title4 {
+  font-family: "Montserrat", sans-serif;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 49px;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  color: #ffffff;
+  padding-top: 15px;
+}
+.line2 {
+  background: #000000;
+  opacity: 0.15;
+  height: 4px;
+  width: 470px;
+}
+.word4 {
+  font-family: "Titillium Web", sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 27px;
+  text-align: center;
+  color: #ffffff;
+}
+.wordscenter {
+  display: flex;
+  flex-direction: row;
+}
+.ner1 {
+  font-family: "Titillium Web", sans-serif;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 37px;
+  color: #ffffff;
+}
+.ug {
+  font-family: "Titillium Web", sans-serif;
+  font-style: italic;
+  font-weight: 400;
+  font-size: 21px;
+  line-height: 32px;
+  color: #ffffff;
+}
+.ner2 {
+  font-family: "Titillium Web", sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 27px;
+  color: #ffdd99;
+}
+.github {
+  font-family: "Titillium Web", sans-serif;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 22.5752px;
+  line-height: 34px;
+  text-align: center;
+  color: #ffffff;
+  text-decoration: none;
+}
