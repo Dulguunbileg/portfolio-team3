@@ -1,7 +1,7 @@
 .something {
   background: #bdd1df;
   opacity: 0.75;
-  width: 120px;
+  width: 500px;
   height: 4.13px;
 }
 .title {
@@ -51,4 +51,12 @@
   line-height: 24px;
   text-align: center;
   color: #3c4761;
+}
+.hat {
+  width: 300px;
+  height: 200px;
+}
+.icon {
+  width:11px;
+  height:11px;
 }
