@@ -1,15 +1,7 @@
 body {
   margin: 0;
 }
-.grid-container {
-  display: grid;
-  grid-template-rows: auto auto auto;
-  width: 100vw;
-  height: 100vh;
-}
 .pic-1 {
-  margin-left: 150px;
-  margin-top: 150px;
   width: 450px;
   height: 350px;
   border-style: solid;
@@ -17,13 +9,51 @@ body {
   border-width: 40px;
 }
 .title-1 {
-  position: absolute;
-  left: 750px;
-  top: 250px;
-  font-family: "Courier New", Courier, monospace;
-  font-weight: 600;
-  font-size: 27px;
+  font-family: "poppins";
+  font-weight: 700;
+  font-size: 30px;
+  letter-spacing: 0.245em;
 }
+.btn-1 {
+  background-color: #cc9bac;
+  width: 90px;
+  height: 40px;
+  border-color: #cc9bac;
+  border-radius: 8%;
+  color: white;
+  font-size: 20px;
+  letter-spacing: 4px;
+  font-family: "poppins";
+}
+.text-1 {
+  top: 350px;
+  width: 500px;
+  font-family: "poppins";
+  font-size: 20px;
+}
+.title-2 {
+  font-family: "poppins";
+  font-weight: 700;
+  font-size: 30px;
+  letter-spacing: 0.245em;
+}
+.btn-2 {
+  background-color: #cc9bac;
+  width: 90px;
+  height: 40px;
+  border-color: #cc9bac;
+  border-radius: 8%;
+  color: white;
+  font-size: 20px;
+  letter-spacing: 4px;
+  font-family: "poppins";
+}
+.text-2 {
+  width: 500px;
+  font-family: "poppins";
+  font-size: 20px;
+}
+
 .pic-2 {
   width: 450px;
   height: 350px;
@@ -31,11 +61,69 @@ body {
   border-color: rgb(198, 158, 165);
   border-width: 40px;
 }
+.title-3 {
+  font-family: "poppins";
+  font-weight: 700;
+  font-size: 30px;
+  letter-spacing: 0.245em;
+}
+.btn-3 {
+  background-color: #cc9bac;
+  width: 90px;
+  height: 40px;
+  border-color: #cc9bac;
+  border-radius: 8%;
+  color: white;
+  font-size: 20px;
+  letter-spacing: 4px;
+  font-family: "poppins";
+}
 
+.text-3 {
+  width: 500px;
+  font-family: "poppins";
+  font-size: 20px;
+  display: grid;
+  grid-area: footer3;
+}
 .pic-3 {
   width: 450px;
   height: 350px;
   border-style: solid;
   border-color: rgb(198, 158, 165);
   border-width: 40px;
+}
+.row1 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  margin: 50px;
+}
+.row2 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  margin: 50px;
+}
+.row3 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  margin: 50px;
+}
+.column1 {
+  display: flex;
+  flex-direction: column;
+
+  margin: 50px;
+}
+.column2 {
+  display: flex;
+  flex-direction: column;
+  margin: 50px;
+}
+.column3 {
+  display: flex;
+  flex-direction: column;
+  margin: 50px;
 }
