@@ -66,6 +66,7 @@
 }
 .profiles {
   display:flex;
+  gap:300px;
 }
 .centerclass {
   display:flex;
