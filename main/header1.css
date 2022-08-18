@@ -1,7 +1,7 @@
 .cuda {
   width: 120px;
   height: 40px;
-  left: 300px;
+  left: 1%;
   position: relative;
 }
 .category {
@@ -10,8 +10,8 @@
   gap: 40px;
 }
 .header1 {
-  gap: 1200px;
+  gap: 40%;
 }
 .names {
-    font-family: 'Titillium Web', sans-serif;
+  font-family: 'Titillium Web', sans-serif;
 }

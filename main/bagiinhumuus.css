@@ -1,7 +1,7 @@
 .something {
   background: #bdd1df;
   opacity: 0.75;
-  width: 120px;
+  width: 650px;
   height: 4.13px;
 }
 .title {
@@ -51,4 +51,25 @@
   line-height: 24px;
   text-align: center;
   color: #3c4761;
+}
+.hat {
+  width: 300px;
+  height: 200px;
+}
+.icon img {
+  width:30px;
+  height:30px;
+}
+.icons {
+  display:flex;
+  gap:10px;
+}
+.profiles {
+  display:flex;
+}
+.centerclass {
+  display:flex;
+  flex-direction:column;
+  justify-content: center;
+  align-items: center;
 }
