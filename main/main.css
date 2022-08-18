@@ -1,7 +1,7 @@
 .grid-container {
   display: grid;
   grid-template-columns: 100%;
-  grid-template-rows: 100px 200px 1.1fr 1.1fr 1fr 0.5fr;
+  grid-template-rows: 100px 200px 1.1fr 1.1fr 700px 80px;
   grid-template-areas:
     "header1"
     "header2"
@@ -49,8 +49,8 @@
   grid-area: words;
   background: rgb(199 81 127);
   display: flex;
-  justify-content: center;
   align-items: center;
+  flex-direction: column;
   position: relative;
 }
 .footer {
