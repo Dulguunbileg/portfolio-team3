@@ -1,32 +1,85 @@
-.cont{
-    display: flex;
-    flex-direction: row;
-    justify-content: center;
-margin-top: 200px;
+
+.cont {
+  justify-content: center;
+  margin: 100px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
 }
-.info{
-    background-color: antiquewhite;
-    width:50vw;
-    height: 50vh;
+.cont1 {
+  background-color: rgb(247, 233, 233);
+}
+.letter {
+  margin: 50px;
+  display: flex;
+  flex-direction: column;
+}
+.boxes {
+  display: flex;
+  flex-direction: row;
+  margin: 10px;
+  display: flex;
+  justify-content: space-between;
+}
+.box1 {
+
+  display: flex;
+  flex-direction: column;
+}
+.box2 {
+  display: flex;
+  flex-direction: column;
+}
+.content-form {
+  background-color: rgb(250, 209, 209);
+  width: 500px;
+  height: 550px;
+  box-shadow: 0px 0px 10px 10px #888888;
+  display: flex;
+  flex-direction:column;
+  margin:0px;
 
 }
-.info1{
-     margin:100px;
-     margin-left: 10px;
-}
-.info2{
-       display: flex;
-    flex-direction: row;
-justify-content: center;
-}
-.rl{
-     display: flex;
-    flex-direction: column;
-margin-left: 10px ;
-}
-.rl1{
-    margin-left :500px;
-         display: flex;
-    flex-direction: column;
+.num-name {
+  display: flex;
+  flex-direction: row;
+    justify-content: space-around;
+    margin:10px;
 
+}
+
+.name{
+    border-radius: 30%;
+        box-shadow: 0px 0px 10px 1px rgb(235, 135, 135);
+}
+.number{
+    border-radius: 30%;
+        box-shadow: 0px 0px 10px 1px rgb(255, 141, 141);
+}
+
+.email{
+     border-radius: 30%;
+display: flex;
+align-self:center;
+margin:10px;
+box-shadow: 0px 0px 10px 1px rgb(255, 119, 119);
+
+}
+.submit{
+     border-radius: 30%;
+    margin:10px;
+        box-shadow: 0px 0px 10px 1px rgb(250, 140, 140);
+        align-self:baseline;
+}
+.message{
+     border-radius: 30%;
+        margin:10px;
+        box-shadow: 0px 0px 20px 1px rgb(255, 169, 169);
+        align-self:baseline;
+        
+}
+.buttn{
+     border-radius: 30%;
+    align-self: center;
+    box-shadow: 0px 0px 10px 1px rgb(233, 126, 126);
 }
