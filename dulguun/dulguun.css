@@ -107,14 +107,17 @@ input:valid {
 
 @keyframes shake {
   25% {
+
     transform: translateX(4px);
   }
 
   50% {
+
     transform: translateX(-4px);
   }
 
   75% {
+    display: none;
     transform: translateX(4px);
   }
 }
