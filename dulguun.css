@@ -1,0 +1,100 @@
+.group238{position: absolute;
+width: 1851px;
+height: 3342px;
+left: -449px;
+background-color: #7D7D7D;
+top: -2536px;}
+
+
+
+/* Headline */
+
+.header{
+position: absolute;
+width: 641.92px;
+height: 159.35px;
+left: 114px;
+top: 611px;
+}
+
+
+/* Creative Wireframe S */
+
+.creative{
+position: absolute;
+height: 130px;
+left: 7.54%;
+right: 53.57%;
+top: calc(50% - 130px/2 + 80.5px);
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 43.4587px;
+line-height: 65px;
+
+color: #7D7D7D;
+
+
+}
+/* cube 1 */
+
+.cube1{
+position: absolute;
+width: 191.09px;
+height: 191.09px;
+left: 123px;
+top: 245px;}
+
+
+/* cube 4 */
+
+.cube4{
+position: absolute;
+width: 191.09px;
+height: 191.09px;
+left: -65px;
+top: 167px;
+}
+
+
+/* cube 2 */
+
+.cube2
+{position: absolute;
+width: 132.11px;
+height: 132.11px;
+left: 408px;
+top: 193px;}
+
+
+
+/* cube 5 */
+.cube5{
+position: absolute;
+width: 132.11px;
+height: 132.11px;
+left: 220px;
+top: 115px;
+}
+
+
+/* cube 3 */
+
+.cube3{
+position: absolute;
+width: 84.93px;
+height: 84.93px;
+left: 642.96px;
+top: 126px;
+}
+
+
+/* cube 6 */
+
+.cube6{
+position: absolute;
+width: 84.93px;
+height: 84.93px;
+left: 454.96px;
+top: 48px;}
