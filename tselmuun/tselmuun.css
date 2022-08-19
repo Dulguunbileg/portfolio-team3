@@ -4,18 +4,17 @@ body {
 * {
   box-sizing: border-box;
 }
-.mains{  
-   display: flex;
-   align-items: center;
-   background-color:rgb( 78, 71, 193);
-   width: 2200px;
-   height: 200px;
-   padding: 0px 256px;
+.mains {
+  display: flex;
+  align-items: center;
+  background-color: rgb(78, 71, 193);
+  width: 2200px;
+  height: 200px;
+  padding: 0px 256px;
 }
 .row {
   display: flex;
   flex-direction: row;
-
 }
 .column {
   display: flex;
@@ -24,18 +23,18 @@ body {
 .justify-between {
   justify-content: space-between;
 }
-.sans{
-  font-family: 'Open Sans', sans-serif;
+.sans {
+  font-family: "Open Sans", sans-serif;
   font-size: 30px;
   color: white;
 }
-.gma{
+.gma {
   -webkit-filter: invert(1);
-  filter:invert(1); 
+  filter: invert(1);
 }
-.icoo{
+.icoo {
   margin: 20px;
 }
-.git{
-    margin: 5px;
+.git {
+  margin: 5px;
 }
