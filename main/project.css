@@ -55,3 +55,10 @@
   color: #ffffff;
   margin-bottom: 20px;
 }
+.checkbox {
+  width:100px;
+  height:100px;
+  opacity:1;
+  background:white;
+  position:absolute;
+}
