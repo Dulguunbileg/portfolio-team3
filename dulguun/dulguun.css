@@ -95,3 +95,26 @@
 .let {
   align-self: center;
 }
+
+input:invalid {
+  border: 1px solid red;
+  animation: shake 300ms;
+}
+
+input:valid {
+  border: 1px solid yellow;
+}
+
+@keyframes shake {
+  25% {
+    transform: translateX(4px);
+  }
+
+  50% {
+    transform: translateX(-4px);
+  }
+
+  75% {
+    transform: translateX(4px);
+  }
+}
