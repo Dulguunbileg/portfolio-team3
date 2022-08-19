@@ -1,7 +1,7 @@
 .grid-container {
   display: grid;
   grid-template-columns: 100%;
-  grid-template-rows: 100px 200px 1ffr 1.1fr 700px 80px;
+  grid-template-rows: 100px 250px 900px 1.1fr 700px 80px;
   grid-template-areas:
     "header1"
     "header2"
