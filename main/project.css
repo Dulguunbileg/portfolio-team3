@@ -53,5 +53,12 @@
   font-size: 17.9127px;
   line-height: 27px;
   color: #ffffff;
-  margin-bottom:20px;
+  margin-bottom: 20px;
+}
+.checkbox {
+  width:100px;
+  height:100px;
+  opacity:1;
+  background:white;
+  position:absolute;
 }
